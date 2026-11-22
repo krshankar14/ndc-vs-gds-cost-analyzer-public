@@ -1,0 +1,26 @@
+{
+  "name": "ndc-vs-gds-cost-analyzer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Quantitative distribution economics simulator comparing legacy GDS and IATA NDC channels across Total Cost of Distribution (TCD) and Total Value of Offer (TVO).",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "recharts": "^3.6.0",
+    "react-dom": "^19.2.3",
+    "react": "^19.2.3",
+    "lucide-react": "^0.562.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
