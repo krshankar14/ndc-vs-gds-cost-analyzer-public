@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NDC vs GDS Economics Simulator icon">
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <path d="M14 42L25 29L35 36L50 18" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="50" cy="18" r="4.5" fill="#10b981"/>
+  <path d="M14 48H50" stroke="#475569" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

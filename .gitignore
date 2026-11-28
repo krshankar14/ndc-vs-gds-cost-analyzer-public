@@ -1,9 +1,13 @@
 # Dependencies
 node_modules/
 
-# Build outputs
+# Build & test outputs
 dist/
 dist-ssr/
+coverage/
+
+# Deployment metadata
+.vercel/
 
 # Environment files
 .env
